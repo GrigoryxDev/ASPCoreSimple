@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-
 namespace NorthwindContextLib
 {
     public class Northwind:DbContext
